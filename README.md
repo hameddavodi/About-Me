@@ -11,7 +11,7 @@ Hi ! My name is Hamed (you can call me henry). I am a Economist Data Scientist <
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamed-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/hamed-davoodi-632a4591) or directly mail to: hamed.davodi94@gmail.com
 
 ---
-### 📑: Some of My Notable Stories :
+### 📑 Some of My Notable Stories :
 
 These are some highlights from my CV:
 
