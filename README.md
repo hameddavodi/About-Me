@@ -28,7 +28,7 @@ I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=hameddavodi
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hameddavodi&theme=dark&background=000000)](https://git.io/streak-stats)
   
 Here are some ideas to get you started:
 
