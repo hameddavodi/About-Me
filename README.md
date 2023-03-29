@@ -18,7 +18,12 @@ I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-orginal.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/R/r-orginal.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
+    
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
