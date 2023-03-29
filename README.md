@@ -2,7 +2,7 @@
 
 Hi ! My name is Hamed (you can call me henry). I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran living in Italy.
 
-- 💻: I’m currently working as a freelancer in financial markets and economics analysis.
+- 💻: I’m currently working as a freelancer in Financial Markets and Economics Analysis.
 
 - ⛲: Financial optimization and Market analysis.
 
