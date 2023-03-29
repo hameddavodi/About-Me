@@ -1,7 +1,9 @@
 ### Hi there 👋
+---
 
-<!--
-**hameddavodi/hameddavodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me :
+
+I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran lives in Italy.
 
 Here are some ideas to get you started:
 
