@@ -31,7 +31,7 @@ Also:
 - I am going to have 2 master's degree instead of one PhD.
 - You can optimize financial performance of a company by using extensive econometrics tools.
 - You can boost the precision of investment analysis using the data science tools which leads to better development/implementation of a (new) business.
-- You can hire a economist data scientist to hedge positions in product managment, business development, and market analysis. 
+- You can hire an economist data scientist to hedge positions in product managment, business development, and market analysis. 
 - Bitcoin will soar to 1 million within 10 years.
 -->
 ---
