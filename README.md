@@ -1,6 +1,3 @@
-### Hi there 👋
----
-
 ### :man_technologist: About Me :
 
 Hi ! My name is Hamed (you can call me henry). I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran living in Italy.
