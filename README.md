@@ -18,7 +18,9 @@ These are some highlights from my CV:
 - 1 year of work experience as a Head of Economics Research Group (Tehran Polytechnique, Center of Advance Studies)
 - 4 years of work experience as a Economist Analyst (Black-forest IT solution)
 - Lots of independent work experience as a data scientist, business developer, and product analyst.
-- Current Data science for economics master's student at the University of Milan and graduated of Economics development Master's degree and Economic science Bachelor's degree. 
+- Current Data science for economics master's student at the University of Milan.
+- Graduated of Economics development Master's degree
+- Economic science Bachelor's degree. 
 
 Also:
 
