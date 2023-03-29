@@ -24,6 +24,12 @@ I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
     
+  
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=hameddavodi
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
