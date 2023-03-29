@@ -3,17 +3,40 @@
 
 ### :man_technologist: About Me :
 
-I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran living in Italy.
+Hi ! My name is Hamed (you can call me henry). I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran living in Italy.
 
-- 💻: I’m working as a freelancer in financial markets and economics analysis.
+- 💻: I’m currently working as a freelancer in financial markets and economics analysis.
 
-- ⛲: Financial optimization and market analysis.
+- ⛲: Financial optimization and Market analysis.
 
 - ⚡: In my free time, I write guidence for beginners in economics and data science and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamed-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/hamed-davoodi-632a4591) or directly mail to: hamed.davodi94@gmail.com
 
+---
+### 📑: Some of My Notable Stories :
 
+These are some highlights from my CV:
+
+    3rd Rank of regional programming olympiad
+    1 year of work experience as a Head of Economics Research Group (Tehran Polytechnique, Center of Advance Studies)
+    4 years of work experience as a Economist Analyst (Black-forest IT solution)
+    Lots of independent work experience as a data scientist, business developer, and product analyst.
+    Current Data science for economics master's student at the University of Milan and graduated of Economics development Master's degree and Economic science Bachelor's degree. 
+
+Also:
+
+- 🔭 I’m currently working on optimization of Markov-Switching autoregressive forcasts
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on ANYTHING CHALLENGING!
+- 💬 Ask me about ANYTHING!
+- ⚡ Fun fact: 
+      - I am going to have 2 master's degree instead of one PhD.
+      - You can optimize financial performance of a company by using extensive econometrics tools.
+      - You can boost the precision of investment analysis using the data science tools which leads to better development/implementation of a (new) business.   
+      - You can hire a economist data scientist to hedge positions in product managment, business development, and market analysis. 
+      - Bitcoin will soar to 1 million within 10 years.
+-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -30,14 +53,3 @@ I am a Economist Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hameddavodi&theme=dark&background=000000)](https://git.io/streak-stats)
   
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
