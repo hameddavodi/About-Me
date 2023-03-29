@@ -24,15 +24,15 @@ These are some highlights from my CV:
 
 Also:
 
-- 🔭 I’m currently working on optimization of Markov-Switching autoregressive forcasts
+- 🔭 I’m currently working on Optimization of Markov-Switching Forcasts
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on ANYTHING CHALLENGING!
 - 💬 Ask me about ANYTHING!
 - ⚡ Fun fact:
-- I am going to have 2 master's degree instead of one PhD.
-- You can optimize financial performance of a company by using extensive econometrics tools.
-- You can boost the precision of investment analysis using the data science tools which leads to better development/implementation of a (new) business.
-- You can hire an economist data scientist to hedge positions in product managment, business development, and market analysis. 
+- I am going to have 2 Master's degree instead of one PhD.
+- You can optimize financial performance of a company by using extensive Econometrics tools.
+- You can boost the precision of investment analysis using the Data Science tools which leads to better development/implementation of a (new) business.
+- You can hire an Economist Data Scientist to hedge positions in Product Managment, Business development, and Market Analysis. 
 - Bitcoin will soar to 1 million within 10 years.
 -->
 ---
