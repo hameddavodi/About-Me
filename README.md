@@ -8,7 +8,7 @@ Hi ! My name is Hamed (you can call me Henry). I am a Economist Data Scientist <
 
 - ⚡: In my free time, I write guidence for beginners in economics and data science and read tech articles.
 
-- :mailbox: : How to reach me: ☕ [Linktr](https://linktr.ee/hameddavoodi) or directly mail to: hamed.davodi94@gmail.com 
+- :mailbox: : How to reach me: ☕ [Linktr](https://linktr.ee/hameddavoodi)
 
 ---
 ### 📑 Some of My Notable Stories :
