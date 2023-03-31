@@ -20,7 +20,7 @@ These are some highlights from my CV:
 - Lots of independent work experience as a Data Scientist, Business Developer, and Product Analyst.
 - Current Data Science for Economics Master's student at the University of Milan.
 - Graduated of Economics Development Master's degree
-- Economic science Bachelor's degree. 
+- Graduated of Economic science Bachelor's degree. 
 
 Also:
 
