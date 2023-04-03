@@ -4,7 +4,7 @@ Hi ! My name is Hamed (you can call me Henry). I am a Economist Data Scientist <
 
 - 💻: I’m currently working as a freelancer in Financial Markets and Economics Analysis.
 
-- ⛲: Financial optimization and Market analysis.
+- ⛲: I am familiar with Financial optimization and Market analysis.
 
 - ⚡: In my free time, I write guidence for beginners in economics and data science and read tech articles.
 
