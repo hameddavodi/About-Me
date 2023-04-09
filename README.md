@@ -35,7 +35,6 @@ Also:
 - You can hire an Economist Data Scientist to hedge positions in Product Managment, Business development, and Market Analysis. 
 - Bitcoin will soar to 1 million within 10 years.
 -->
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
