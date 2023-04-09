@@ -36,6 +36,7 @@ Also:
 - Bitcoin will soar to 1 million within 10 years.
 -->
 
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -47,7 +48,7 @@ Also:
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
 
-
+---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hameddavodi&theme=dark&background=000000)](https://git.io/streak-stats)
   
