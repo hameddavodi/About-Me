@@ -25,7 +25,7 @@ These are some highlights from my CV:
 Also:
 
 - 🔭 I’m currently working on Optimization of Markov-Switching Forcasts
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Database design and Clouds.
 - 👯 I’m looking to collaborate on ANYTHING CHALLENGING!
 - 💬 Ask me about ANYTHING!
 - ⚡ Fun fact:
