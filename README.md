@@ -6,8 +6,6 @@ Hi ! My name is Hamed (you can call me Henry). I am an Economist Data Scientist 
 
 - ⛲: I am familiar with Financial optimization and Market analysis.
 
-- ⚡: In my free time, I write guidence for beginners in economics and data science and read tech articles.
-
 - :mailbox: : How to reach me: ☕ [Linktr](https://linktr.ee/hameddavoodi)
 
 ---
@@ -25,7 +23,7 @@ These are some highlights from my CV:
 Also:
 
 - 🔭 I’m currently working on Optimization of Markov-Switching Forcasts
-- 🌱 I’m currently learning Database design and Clouds.
+- 🌱 I’m currently learning Database design and Cloud Computing.
 - 👯 I’m looking to collaborate on ANYTHING CHALLENGING!
 - 💬 Ask me about ANYTHING!
 - ⚡ Fun fact:
