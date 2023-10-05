@@ -13,16 +13,16 @@ Hi ! My name is Hamed (you can call me Henry). I am a Data Scientist <img src="h
 
 These are some highlights from my CV:
 
-- 1 year of work experience as a Head of Economics Research Group (Tehran Polytechnique, Center of Advance Studies)
+- 1+ year of work experience as a Data Scientist (Sharif Financial & Investment Management Group)
 - 4 years of work experience as a Economist Analyst (Black-forest IT solution)
-- Lots of independent work experience as a Data Scientist, Business Developer, and Product Analyst.
+- Lots of independent work experience as a Data Scientist, Data Engineer, Business Developer, and Product Analyst.
 - Current Data Science for Economics Master's student at the University of Milan.
 - Graduated of Economics Development Master's degree
 - Graduated of Economic science Bachelor's degree. 
 
 Also:
 
-- 🔭 I’m currently working on Optimization of Markov-Switching Forcasts
+- 🔭 I’m currently working on Data Engineering. 
 - 🌱 I’m currently learning Database design and Cloud Computing.
 - 👯 I’m looking to collaborate on ANYTHING CHALLENGING!
 - 💬 Ask me about ANYTHING!
