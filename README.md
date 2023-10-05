@@ -1,8 +1,8 @@
 ### :man_technologist: About Me :
 
-Hi ! My name is Hamed (you can call me Henry). I am an  Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran living in Milan, Italy.
+Hi ! My name is Hamed (you can call me Henry). I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran living in Milan, Italy.
 
-- 💻: I’m currently working as a freelancer in Financial Markets and Economics Analysis.
+- 💻: I’m currently working as a freelancer in Financial Markets and Big data Solutions.
 
 - ⛲: I am familiar with Financial optimization and Market analysis.
 
