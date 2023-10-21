@@ -28,7 +28,7 @@ Also:
 
 - ⚡ Fun fact:
 - Yes! I am going to have 2 Master's degree instead of one PhD (Already declined three PhD offers).
-
+- Target Languages to learn: Italian, German, Scala
 
 - You can hire an Economist Data Scientist to cover almost 10 similar positions ranging from business to software. 
 - Bitcoin will soar to 1 million within 10 years.
