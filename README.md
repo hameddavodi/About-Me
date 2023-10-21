@@ -1,10 +1,10 @@
 ### :man_technologist: About Me :
 
-Hi ! My name is Hamed (you can call me Henry). I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran living in Milan, Italy.
+Hi ! My name is Hamed (call me Henry). I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">living in Milan, Italy.
 
 - 💻: I’m currently working as a freelancer in Financial Markets and Big data Solutions.
 
-- ⛲: I am familiar with Financial optimization and Market analysis.
+- ⛲: I experience in  Business, Financial and Market Analysis and I've focused on more technical stuffs in data world.
 
 - :mailbox: : How to reach me: ☕ [Linktr](https://linktr.ee/hameddavoodi)
 
@@ -16,21 +16,21 @@ These are some highlights from my CV:
 - 1+ year of work experience as a Data Scientist (Sharif Financial & Investment Management Group)
 - 4 years of work experience as a Economist Analyst (Black-forest IT solution)
 - Lots of independent work experience as a Data Scientist, Data Engineer, Business Developer, and Product Analyst.
-- Current Data Science for Economics Master's student at the University of Milan.
-- Graduated of Economics Development Master's degree
-- Graduated of Economic science Bachelor's degree. 
+- Current Data Science Master student at the University of Milan (70% loaded).
+- Master's Degree in Economics Planning and Business Development (100% Done).
+- Bachelor's Degree in Economic Science (100% Done).
 
 Also:
 
-- 🔭 I’m currently working on Data Engineering. 
-- 🌱 I’m currently learning Database design and Cloud Computing.
-- 👯 I’m looking to collaborate on ANYTHING CHALLENGING!
-- 💬 Ask me about ANYTHING!
+- 🔭 I’m currently working on Data Engineering and Backend stuffs. 
+- 🌱 I’m currently learning Database design and Cloud Computing besides of the beautiful RDDs.
+- 👯 I’m looking for a job. A permanent one : )
+
 - ⚡ Fun fact:
-- I am going to have 2 Master's degree instead of one PhD.
-- You can optimize financial performance of a company by using extensive Econometrics tools.
-- You can boost the precision of investment analysis using the Data Science tools which leads to better development/implementation of a (new) business.
-- You can hire an Economist Data Scientist to hedge positions in Product Managment, Business development, and Market Analysis. 
+- Yes! I am going to have 2 Master's degree instead of one PhD (Already declined three PhD offers).
+
+
+- You can hire an Economist Data Scientist to cover almost 10 similar positions ranging from business to software. 
 - Bitcoin will soar to 1 million within 10 years.
 -->
 
