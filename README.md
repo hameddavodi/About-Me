@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-Hi ! My name is Hamed (call me Henry). I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">living in Milan, Italy.
+Hi ! My name is Hamed (call me Henry). I am a Data Scientist living in Milan, Italy.
 
 - 💻: I’m currently working as a freelancer in Financial Markets and Big data Solutions.
 
