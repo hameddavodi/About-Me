@@ -1,12 +1,10 @@
 ### :man_technologist: About Me :
 
-Hi ! My name is Amedeo (my preferred name). I am a Data Scientist living in Milan, Italy.
+Hi ! My name is Amedeo. I am a Data Scientist living in Milan, Italy.
 
-- 💻: I’m currently working as a freelancer in Financial Markets and Big data Solutions.
+- 💻: I’m currently working as a freelancer in Financial Markets and Blockchain Engineering.
 
-- ⛲: I experience in  Business, Financial and Market Analysis and I've focused on more technical stuffs in data world.
-
-- :mailbox: : How to reach me: ☕ [Linktr](https://linktr.ee/hameddavoodi)
+- ⛲: I have experience in Business, Financial Services and Data Science and I've focused more on technical stuffs in the data world.
 
 ---
 ### 📑 Some of My Notable Stories :
@@ -14,16 +12,16 @@ Hi ! My name is Amedeo (my preferred name). I am a Data Scientist living in Mila
 These are some highlights from my CV:
 
 - 1+ year of work experience as a Data Scientist (Sharif Financial & Investment Management Group)
-- 4 years of work experience as a Economist Analyst (Black-forest IT solution)
-- Lots of independent work experience as a Data Scientist, Data Engineer, Business Developer, and Product Analyst.
+- 4 years of work experience as a Data Analyst (Black-forest IT solution)
+- Lots of independent work experience as a Data Scientist, Data Engineer, Business Developer, and Financial Analyst.
 - Current Data Science Master student at the University of Milan (70% loaded).
 - Master's Degree in Economics Planning and Business Development (100% Done).
 - Bachelor's Degree in Economic Science (100% Done).
 
 Also:
 
-- 🔭 I’m currently working on Data Engineering and Backend stuffs. 
-- 🌱 I’m currently learning Database design and Cloud Computing besides of the beautiful RDDs.
+- 🔭 I’m currently working on blockchain engineering. 
+- 🌱 I’m currently learning backend design and software solutions.
 - 👯 I’m looking for a job. A permanent one : )
 
 - ⚡ Fun fact:
