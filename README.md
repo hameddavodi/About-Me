@@ -2,7 +2,7 @@
 
 Hi ! My name is Amedeo. I am a Data Scientist living in Milan, Italy.
 
-- 💻: I’m currently working as a freelancer in Financial Markets and Blockchain Engineering.
+- 💻: I’m currently working on my portifolios ranging from data science to backend development. 
 
 - ⛲: I have experience in Business, Financial Services and Data Science and I've focused more on technical stuffs in the data world.
 
