@@ -13,7 +13,7 @@ These are some highlights from my CV:
 
 - 1+ year of work experience as a Data Scientist (Sharif Financial & Investment Management Group)
 - 4 years of work experience as a Data Analyst (Black-forest IT solution)
-- Lots of independent work experience as a Data Scientist, Software development, Data Engineer, Business Developer, and Financial Analyst.
+- Lots of independent work experience as a Data Scientist, Software Development, Data Engineer, Business Developer, and Financial Analyst.
 - Current Data Science Master student at the University of Milan (70% loaded).
 - Master's Degree in Economics Planning and Business Development (100% Done).
 - Bachelor's Degree in Economic Science (100% Done).
