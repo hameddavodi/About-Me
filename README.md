@@ -2,7 +2,7 @@
 
 Hi ! My name is Amedeo. I am a Data Scientist living in Milan, Italy.
 
-- 💻: I’m currently working on my portifolios ranging from data science to backend development. 
+- 💻: I’m currently working on my portifolios ranging from Data Science to Data Engineering. 
 
 Also:
 
