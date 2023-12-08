@@ -4,33 +4,14 @@ Hi ! My name is Amedeo. I am a Data Scientist living in Milan, Italy.
 
 - 💻: I’m currently working on my portifolios ranging from data science to backend development. 
 
-- ⛲: I have experience in Business, Financial Services and Data Science and I've focused more on technical stuffs in the data world.
-
----
-### 📑 Some of My Notable Stories :
-
-These are some highlights from my CV:
-
-- 1+ year of work experience as a Data Scientist (Sharif Financial & Investment Management Group)
-- 4 years of work experience as a Data Analyst (Black-forest IT solution)
-- Lots of independent work experience as a Data Scientist, Software Development, Data Engineer, Business Developer, and Financial Analyst.
-- Current Data Science Master student at the University of Milan (70% loaded).
-- Master's Degree in Economics Planning and Business Development (100% Done).
-- Bachelor's Degree in Economic Science (100% Done).
-
 Also:
 
-- 🔭 I’m currently working on blockchain engineering. 
-- 🌱 I’m currently learning backend design and software solutions.
+- 🔭 I’m currently working on Big Data Solutions. 
 - 👯 I’m looking for a job. A permanent one : )
 
 - ⚡ Fun fact:
 - Yes! I am going to have 2 Master's degree instead of one PhD (Already declined three PhD offers).
-- Target Languages to learn: Italian, German, Scala
-
-- You can hire an Economist Data Scientist to cover almost 10 similar positions ranging from business to software. 
-- Bitcoin will soar to 1 million within 10 years.
--->
+- Target Languages to learn: Italian, Scala :D
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
