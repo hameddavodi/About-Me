@@ -1,4 +1,4 @@
-### :man_technologist: About Me :
+### About Me :
 
 Hi ! My name is Amedeo. I am a Data Scientist living in Milan, Italy.
 
