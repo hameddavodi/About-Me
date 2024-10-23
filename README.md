@@ -1,17 +1,9 @@
 ### About Me :
 
-Hi ! My name is Amedeo. I am an ex Data Scientist, but current Data Engineer living in Milan, Italy.
-
-- 💻: I’m currently working on my portifolios ranging from Data Science to Data Engineering. 
-
-Also:
+Hi ! My name is Amedeo. I am an ex Data Engineer, but current Data Scientist living in Milan, Italy.
 
 - 🔭 I’m currently working on Big Data Solutions. 
-- 👯 I’m looking for a job. A permanent one : )
 
-- ⚡ Fun fact:
-- Yes! I am going to have 2 Master's degree instead of one PhD (Already declined three PhD offers).
-- Target Languages to learn: Italian, Scala :D
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
