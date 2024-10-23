@@ -2,8 +2,7 @@
 
 Hi ! My name is Amedeo. I am an ex Data Engineer, but current Data Scientist living in Milan, Italy.
 
-- 🔭 I’m currently working on Big Data Solutions. 
-
+- 🔭 For more information please refer to my linkedin account
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
